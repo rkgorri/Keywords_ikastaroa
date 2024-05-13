@@ -38,9 +38,12 @@ keywords = {
     
 
     "matricula" : "request_matricula",
+    "matriculas" : "request_matricula",
     "matricularme": "request_matricula",
     "matricular": "request_matricula",
     "matriculacion": "request_matricula",
+    "plazo" : "request_matricula",
+    "plazos": "request_matricula",
    
 
     "contacto" : "request_contacto",
