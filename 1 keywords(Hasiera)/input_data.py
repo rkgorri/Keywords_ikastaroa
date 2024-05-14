@@ -89,20 +89,21 @@ keywords = {
     "formaciones": "request_oferta",
     
 
-    "inscripcion":"request_inscripcion"
-    "inscripciones":"request_inscripcion"
-    "inscribir":"request_inscripcion"
-    "inscribirse":"request_inscripcion"
-    "inscribirme":"request_inscripcion"
-    "inscribirte":"request_inscripcion"
-    "iscripcion":"request_inscripcion"
-    "iscripciones":"request_inscripcion"
-    "iscricion":"request_inscripcion"
-    "iscriciones":"request_inscripcion"
-    "iscribir":"request_inscripcion"
-    "iscribirse":"request_inscripcion"
-    "iscribirme":"request_inscripcion"
-    "iscribirte":"request_inscripcion"
+    "inscripcion": "request_inscripcion"
+    "inscripciones": "request_inscripcion"
+    "inscribir": "request_inscripcion"
+    "inscribirse": "request_inscripcion"
+    "inscribirme": "request_inscripcion"
+    "inscribirte": "request_inscripcion"
+    "iscripcion": "request_inscripcion"
+    "iscripciones": "request_inscripcion"
+    "iscricion": "request_inscripcion"
+    "iscriciones": "request_inscripcion"
+    "iscribir": "request_inscripcion"
+    "iscribirse": "request_inscripcion"
+    "iscribirme": "request_inscripcion"
+    "iscribirte": "request_inscripcion"
+    
 }
 
 
