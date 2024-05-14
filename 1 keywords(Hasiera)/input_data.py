@@ -11,9 +11,14 @@ keywords = {
     "hasta": "request_despedida",
     "luego": "request_despedida",
     "vista": "request_despedida",
-    "agur": "request_despedida",
 
+
+    "aio": "request_agurtu",
+    "adio": "request_agurtu",
+    "agur": "request_agurtu",
+    "aagur": "request_agurtu",
  
+
     "horario": "request_contacto_horarios",
     "hora": "request_contacto_horarios",
     "abre": "request_contacto_horarios",
@@ -111,6 +116,7 @@ keywords = {
 answer = {
     "request_saludo": "¡Buenos días! Puedo ayudarte a contactar con el centro, proporcionarte información sobre prematricula/matricula y oferta", 
     "request_despedida": "Espero haberte ayudado. Gracias por tu visita! Hasta pronto!",
+    "request_agurtu": "Espero dut lagungarri izatea. Eskerrik asko etortzearren! Laster arte!",
     "request_contacto_horarios" : "El horario del centro es de 08:00-17:30. El horario de secretaría es de 09:00-14:30. ",
     "request_pre_matricula": "El periodo de pre-matrícula es a partir de junio. Si rellenas el siguiente formulario (xxx (URL), cuando se publiquen las fechas oficiales te podremos avisar. Puedes inscribirte aquí: xxx (URL)",
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
