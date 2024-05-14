@@ -92,7 +92,27 @@ keywords = {
     "titulacion": "request_oferta",
     "formacion": "request_oferta",
     "formaciones": "request_oferta",
-    
+
+
+    "metodologia": "request_metodologia",
+    "metodo": "request_metodologia",
+    "reto": "request_metodologia",
+    "retos": "request_metodologia",
+    "magistral": "request_metodologia",
+    "magistrales": "request_metodologia",
+    "colaborativa": "request_metodologia",
+    "colavorativa": "request_metodologia",
+    "colavorativa": "request_metodologia",
+    "colaboratiba": "request_metodologia",
+    "grupo": "request_metodologia",
+    "grupos": "request_metodologia",
+    "etazi": "request_metodologia",
+    "ethazi": "request_metodologia",
+    "etasi": "request_metodologia",
+    "ethasi": "request_metodologia",
+    "Etazi": "request_metodologia",
+    "Ethazi": "request_metodologia",
+        
 
     "inscripcion": "request_inscripcion",
     "inscripciones": "request_inscripcion",
@@ -124,6 +144,7 @@ answer = {
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
     "request_inscripcion": "¿Te refieres a la inscripción para la prematrícula o para la matrícula?",
     "request_telefono": "Puedes llamarnos al 944567890 o escribirnos por Whatsapp o Telegram al 666777888",
+    "request_metodologia": "En nuestros ciclos empleamos la metodología Ethazi, que se basa en la resolución de retos en un entorno colaborativo",
 
 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
