@@ -60,6 +60,7 @@ keywords = {
     "g-mail": "request_contacto",
     "mail": "request_contacto",
 
+
     "telefono": "request_telefono",
     "tlfno": "request_telefono",
     "tlfn": "request_telefono",
@@ -73,7 +74,6 @@ keywords = {
     "wsp": "request_telefono",
     "telegram": "request_telefono",
     
-
 
     "oferta": "request_oferta",
     "ofertas": "request_oferta",
@@ -89,21 +89,21 @@ keywords = {
     "formaciones": "request_oferta",
     
 
-    "inscripcion": "request_inscripcion"
-    "inscripciones": "request_inscripcion"
-    "inscribir": "request_inscripcion"
-    "inscribirse": "request_inscripcion"
-    "inscribirme": "request_inscripcion"
-    "inscribirte": "request_inscripcion"
-    "iscripcion": "request_inscripcion"
-    "iscripciones": "request_inscripcion"
-    "iscricion": "request_inscripcion"
-    "iscriciones": "request_inscripcion"
-    "iscribir": "request_inscripcion"
-    "iscribirse": "request_inscripcion"
-    "iscribirme": "request_inscripcion"
+    "inscripcion": "request_inscripcion",
+    "inscripciones": "request_inscripcion",
+    "inscribir": "request_inscripcion",
+    "inscribirse": "request_inscripcion",
+    "inscribirme": "request_inscripcion",
+    "inscribirte": "request_inscripcion",
+    "iscripcion": "request_inscripcion",
+    "iscripciones": "request_inscripcion",
+    "iscricion": "request_inscripcion",
+    "iscriciones": "request_inscripcion",
+    "iscribir": "request_inscripcion",
+    "iscribirse": "request_inscripcion",
+    "iscribirme": "request_inscripcion",
     "iscribirte": "request_inscripcion"
-    
+
 }
 
 
