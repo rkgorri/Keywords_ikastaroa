@@ -47,24 +47,33 @@ keywords = {
    
 
     "contacto" : "request_contacto",
-    "telefono": "request_contacto",
-    "tlfno": "request_contacto",
     "email": "request_contacto",
     "direccion": "request_contacto",
     "localizacion": "request_contacto",
     "sitio": "request_contacto",
     "encuentra": "request_contacto",
     "e-mail": "request_contacto",
-    "tlfn": "request_contacto",
-    "llamar": "request_contacto",
-    "llamada": "request_contacto",
     "correo": "request_contacto",
     "electronico": "request_contacto",
     "gmail": "request_contacto",
     "hotmail": "request_contacto",
     "g-mail": "request_contacto",
     "mail": "request_contacto",
-      
+
+    "telefono": "request_telefono",
+    "tlfno": "request_telefono",
+    "tlfn": "request_telefono",
+    "llamar": "request_telefono",
+    "llamada": "request_telefono",
+    "whatsapp": "request_telefono",
+    "wassap": "request_telefono",
+    "was": "request_telefono",
+    "wasap": "request_telefono",
+    "guasap": "request_telefono",
+    "wsp": "request_telefono",
+    "telegram": "request_telefono",
+    
+
 
     "oferta": "request_oferta",
     "ofertas": "request_oferta",
@@ -80,6 +89,20 @@ keywords = {
     "formaciones": "request_oferta",
     
 
+    "inscripcion":"request_inscripcion"
+    "inscripciones":"request_inscripcion"
+    "inscribir":"request_inscripcion"
+    "inscribirse":"request_inscripcion"
+    "inscribirme":"request_inscripcion"
+    "inscribirte":"request_inscripcion"
+    "iscripcion":"request_inscripcion"
+    "iscripciones":"request_inscripcion"
+    "iscricion":"request_inscripcion"
+    "iscriciones":"request_inscripcion"
+    "iscribir":"request_inscripcion"
+    "iscribirse":"request_inscripcion"
+    "iscribirme":"request_inscripcion"
+    "iscribirte":"request_inscripcion"
 }
 
 
@@ -92,6 +115,9 @@ answer = {
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
     "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com ",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
+    "request_inscripcion": "¿Te refieres a la inscripción para la prematrícula o para la matrícula",
+    "request_telefono": "Puedes llamarnos al 944567890 o escribirnos por Whatsapp o Telegram al 666777888",
+
 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
