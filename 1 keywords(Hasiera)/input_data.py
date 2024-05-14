@@ -122,7 +122,7 @@ answer = {
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
     "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com ",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
-    "request_inscripcion": "¿Te refieres a la inscripción para la prematrícula o para la matrícula",
+    "request_inscripcion": "¿Te refieres a la inscripción para la prematrícula o para la matrícula?",
     "request_telefono": "Puedes llamarnos al 944567890 o escribirnos por Whatsapp o Telegram al 666777888",
 
 
